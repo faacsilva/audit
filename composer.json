@@ -1,0 +1,21 @@
+{
+    "name": "faacsilva/audit",
+    "homepage": "https://github.com/faacsilva/audit",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fabio Silva",
+            "email": "silva.fabiocd@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6.4",
+        "nesbot/carbon": "1.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Faacsilva\\Audit\\": "src"
+        }
+    }
+}

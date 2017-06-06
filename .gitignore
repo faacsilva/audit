@@ -1,0 +1,29 @@
+# Systems
+.DS_Store
+Thumbs.db
+
+# IDEs
+/.idea
+
+# Dependencies
+/.vagrant
+/bower_components
+/node_modules
+/vendor
+
+# Laravel
+*.log
+*.lock
+/.env
+/public/storage
+/storage/*.key
+
+# Project specific
+/.cache
+/.config
+/.local
+/.sass-cache
+/.tmp
+/docs
+/public/css
+/public/js
